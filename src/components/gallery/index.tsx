@@ -26,7 +26,7 @@ const WhatWeClean = () => {
             <IconText icon={<StyledGalleryRegular backgroundImagePath={"./images/gallery-4.jpeg"} />} title="החלפת מנועים של תריסים חשמליים" />
             <IconText icon={<StyledGalleryRegular backgroundImagePath={"./images/gallery-5.jpeg"} />} title="החלפת גומיות למקלחונים" />
             <IconText icon={<StyledGalleryRegular backgroundImagePath={"./images/gallery-9.jpeg"} />} title="החלפת צירים למקלחונים" />
-            <IconText icon={<StyledGalleryRegular backgroundImagePath={"./images/gallery-6.jpeg"} />} title="דלת רשת" />
+            <IconText icon={<StyledGalleryRegular backgroundImagePath={"./images/gallery-6.jpeg"} />} title="התקנת מקלחונים" />
             <IconText icon={<StyledGalleryRegular backgroundImagePath={"./images/gallery-2.jpeg"} />} title="מעבר נגיש לבעלי חיים" />
             <IconText icon={<StyledGalleryRegular backgroundImagePath={"./images/gallery-7.jpeg"} />} title="החלפת גומיות למקלחונים" />
           </StyledMobileGalleryWrapper>
