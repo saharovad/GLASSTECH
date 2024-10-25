@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/sahar-ovad-landing-page/static/js/main.a1c7d7cc.js",
+    "static/js/453.62e1e548.chunk.js": "/sahar-ovad-landing-page/static/js/453.62e1e548.chunk.js",
+    "index.html": "/sahar-ovad-landing-page/index.html",
+    "main.a1c7d7cc.js.map": "/sahar-ovad-landing-page/static/js/main.a1c7d7cc.js.map",
+    "453.62e1e548.chunk.js.map": "/sahar-ovad-landing-page/static/js/453.62e1e548.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a1c7d7cc.js"
+  ]
+}
