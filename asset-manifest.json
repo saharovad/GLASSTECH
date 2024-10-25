@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/GLASSTECH/static/js/main.f4f90a1d.js",
+    "main.js": "/GLASSTECH/static/js/main.df66fc1c.js",
     "static/js/453.717bf125.chunk.js": "/GLASSTECH/static/js/453.717bf125.chunk.js",
     "index.html": "/GLASSTECH/index.html",
-    "main.f4f90a1d.js.map": "/GLASSTECH/static/js/main.f4f90a1d.js.map",
+    "main.df66fc1c.js.map": "/GLASSTECH/static/js/main.df66fc1c.js.map",
     "453.717bf125.chunk.js.map": "/GLASSTECH/static/js/453.717bf125.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.f4f90a1d.js"
+    "static/js/main.df66fc1c.js"
   ]
 }
